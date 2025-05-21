@@ -24,7 +24,7 @@ BOOL APIENTRY DllMain( HMODULE hModule,
     switch (ul_reason_for_call)
     {
     case DLL_PROCESS_ATTACH:
-        std::cout << "This is My First DLL Library for Playing WAV Sound or Music(Soon will be MP3)... So Enjoy to use this DLL Lib!!!" << std::endl;
+        std::cout << "This is My First DLL Library for Playing Sound or Music... So Enjoy to use this DLL Lib!!!" << std::endl;
     case DLL_THREAD_ATTACH:
     case DLL_THREAD_DETACH:
     case DLL_PROCESS_DETACH:
