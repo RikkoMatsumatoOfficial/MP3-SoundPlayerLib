@@ -1,2 +1,12 @@
 # MP3-SoundPlayerLib
-MP3-SoundPlayerLib by RikkoMatsumatoOfficial(C++ Library for Playing Sound or Music)
+This is My First DLL Library for Playing Some Sounds or Musics!!! So Enjoy to use this!!!
+
+## Donations
+
+[DonationAlerts](https://donationalerts.com/r/rikkomatsumato)
+
+> **_Monero Wallet:_** 
+> monero:49SVX8xZ3TCAqKDqW4Ybt1FPTZuMF4SVf2XQWamHZVYddk6pViYJbgrY911RJ6CgFm14vQUuH8Zv5Qouxb6U3YMG1jHQsRq?recipient_name=RikkoMatsumato
+
+[LiberaPay](https://liberapay.com/RikkoMatsumatoOfficial/donate)
+
